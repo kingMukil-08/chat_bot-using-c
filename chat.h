@@ -1,5 +1,5 @@
 int chat(char c[100])
-{
+{//update
 	if(strcmp(c,"e")==0)
 	{
 		return 2000;
